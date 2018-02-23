@@ -1,4 +1,4 @@
-# If you come from bash you might have to change your $PATH.
+#  TestIf you come from bash you might have to change your $PATH.
 # export PATH=$HOME/bin:/usr/local/bin:$PATH
 
 # Path to your oh-my-zsh installation.
@@ -11,7 +11,7 @@ ZSH_THEME="robbyrussell"
 
 # Set list of themes to load
 # Setting this variable when ZSH_THEME=random
-# cause zsh load theme from this variable instead of
+# cause zsh load theme from this variable instead of  
 # looking in ~/.oh-my-zsh/themes/
 # An empty array have no effect
 # ZSH_THEME_RANDOM_CANDIDATES=( "robbyrussell" "agnoster" )
